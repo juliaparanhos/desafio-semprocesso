@@ -1,6 +1,6 @@
 Desafio Sem Processo
 
-Tornar responsiva o template: <https://www.figma.com/file/IktE7yaIbl16lmcBlnQ47Q/Untitled?node-id=0%3A1>
+Tornar responsivo o template: <https://www.figma.com/file/IktE7yaIbl16lmcBlnQ47Q/Untitled?node-id=0%3A1>
 
 ## Scripts
 
