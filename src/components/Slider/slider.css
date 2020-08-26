@@ -1,0 +1,346 @@
+.slider-col-1 {
+    position: absolute; 
+    height: 700px; 
+    background: linear-gradient(90deg, #FFFCEB 0%, #EAFFFE 100%);
+}
+.slider-title-1 {
+    margin-top: 172px; 
+    left: 165px; 
+    margin-left: 172px; 
+    margin-right: 876px;
+    top: 272px; 
+    width: 399px; 
+    height: 136px; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 56px;
+    line-height: 68px;
+    color: black; 
+    text-align: left;
+}
+.slider-subtitle-1 {
+    position: absolute;
+    width: 382px;
+    height: 76px;
+    left: 165px;
+    top: 333px; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: "normal";
+    font-size: 18px; 
+    line-height: 140.62%;
+    color: black; 
+    margin-right: 893px; 
+    text-align: "left";
+}
+
+.slider-button-1 {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 165px; 
+    top: 469px;
+    background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 100%);
+    border-radius: "5px"; 
+    border-color: "transparent";
+}
+
+.slider-component-circle-1 {
+    position: absolute; 
+    top: 35px;
+    left: 39.51%;
+    right: 49.55%;
+    bottom: 79.97%
+}
+
+.slider-component-1 {
+    position: absolute;
+    top: 332px;
+    left:41.6%;
+    right: 57.5%;
+    bottom: 74.76%
+}
+
+.slider-component-2 {
+    position: absolute; 
+    top: 384px; 
+    left: 40.56%;
+}
+
+.slider-component-3 {
+    position: absolute;
+    top: 401px;
+    left: 39.51%;
+}
+
+.slider-background {
+    position: absolute;
+    left: 621px;
+    margin-right: 135px;
+    top: 39px;
+}
+
+.slider-image{
+    position: absolute;
+    left: -80px;
+    width: 500px;
+    height: 500px;
+    top: 294px;
+    visibility: hidden;
+    /*background-image: url(../../assets/img/Group.png);*/
+}
+
+.slider-component-circle-2{
+    position: absolute;
+    top: 495px;
+    left: 86.18%;
+    right: 2.88%;
+    bottom: 59.13%;
+}
+
+.slider-component-4 {
+    position: absolute;
+    top: 407px;
+    left: 92.29%;
+    right: 6.01%;
+}
+
+@media (min-width: 280px) and (max-width: 650px) {
+    .slider-col-1 {
+        position: absolute; 
+        height: 700px; 
+        background: linear-gradient(90deg, #FFFCEB 0%, #EAFFFE 100%);
+    }
+    .slider-title-1 {
+        margin-top: 52px; 
+        left: 165px; 
+        margin-left: 22px; 
+        margin-right: 876px;
+        top: 272px; 
+        width: 399px; 
+        height: 136px; 
+        font-style: normal; 
+        font-weight: normal; 
+        font-size: 46px;
+        line-height: 68px;
+        color: black; 
+        text-align: left;
+    }
+    .slider-subtitle-1 {
+        position: absolute;
+        width: 342px;
+        height: 76px;
+        left: 20px;
+        top: 220px; 
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: "normal";
+        font-size: 14px; 
+        line-height: 140.62%;
+        color: black; 
+        margin-right: 893px; 
+        text-align: "left";
+    }
+    
+    .slider-button-1 {
+        position: absolute;
+        width: 180px;
+        height: 50px;
+        left: 20px; 
+        top: 319px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 100%);
+        border-radius: "5px"; 
+        border-color: "transparent";
+    }
+    
+    .slider-component-circle-1 {
+        position: absolute; 
+        top: 35px;
+        left: 39.51%;
+        right: 49.55%;
+        bottom: 79.97%;
+        display: none;
+    }
+    
+    .slider-component-1 {
+        position: absolute;
+        top: 332px;
+        left:41.6%;
+        right: 57.5%;
+        bottom: 74.76%;
+        display: none;
+    }
+    
+    .slider-component-2 {
+        position: absolute; 
+        top: 384px; 
+        left: 40.56%;
+        display: none;
+    }
+    
+    .slider-component-3 {
+        position: absolute;
+        top: 401px;
+        left: 39.51%;
+        display: none;
+    }
+    
+    .slider-background {
+        position: absolute;
+        left: 0px;
+        width: 300px;
+        height: 500px;
+        margin-right: 135px;
+        top: 300px;
+        display: none;
+    }
+
+    .slider-image{
+        position: absolute;
+        left: -80px;
+        width: 500px;
+        height: 500px;
+        top: 294px;
+        visibility: visible;
+        /*background-image: url(../../assets/img/Group.png);*/
+    }
+    
+    .slider-component-circle-2{
+        position: absolute;
+        top: 495px;
+        left: 86.18%;
+        right: 2.88%;
+        bottom: 59.13%;
+        display: none;
+    }
+    
+    .slider-component-4 {
+        position: absolute;
+        top: 407px;
+        left: 92.29%;
+        right: 6.01%;
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px)  {
+    html, body{
+        overflow-x: hidden !important; 
+    }
+    .slider-col-1 {
+        position: absolute; 
+        height: 500px; 
+        background: linear-gradient(90deg, #FFFCEB 0%, #EAFFFE 100%);
+    }
+    .slider-title-1 {
+        margin-top: 52px; 
+        left: 65px; 
+        margin-left: 22px; 
+        margin-right: 876px;
+        top: 272px; 
+        width: 399px; 
+        height: 136px; 
+        font-style: normal; 
+        font-weight: normal; 
+        font-size: 46px;
+        line-height: 68px;
+        color: black; 
+        text-align: left;
+    }
+    .slider-subtitle-1 {
+        position: absolute;
+        width: 342px;
+        height: 76px;
+        left: 20px;
+        top: 220px; 
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: "normal";
+        font-size: 14px; 
+        line-height: 140.62%;
+        color: black; 
+        margin-right: 893px; 
+        text-align: "left";
+    }
+    
+    .slider-button-1 {
+        position: absolute;
+        width: 180px;
+        height: 50px;
+        left: 20px; 
+        top: 319px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 100%);
+        border-radius: "5px"; 
+        border-color: "transparent";
+    }
+    
+    .slider-component-circle-1 {
+        position: absolute; 
+        top: 35px;
+        left: 39.51%;
+        right: 49.55%;
+        bottom: 79.97%;
+        display: none;
+    }
+    
+    .slider-component-1 {
+        position: absolute;
+        top: 332px;
+        left:41.6%;
+        right: 57.5%;
+        bottom: 74.76%;
+       
+    }
+    
+    .slider-component-2 {
+        position: absolute; 
+        top: 384px; 
+        left: 40.56%;
+       
+    }
+    
+    .slider-component-3 {
+        position: absolute;
+        top: 401px;
+        left: 39.51%;
+    }
+    
+    .slider-background {
+        position: absolute;
+        left: 0px;
+        width: 300px;
+        height: 500px;
+        margin-right: 135px;
+        top: 300px;
+        display: none;
+    }
+
+    .slider-image{
+        position: absolute;
+        left: 290px;
+        width: 500px;
+        height: 500px;
+        top: 4px;
+        visibility: visible;
+        /*background-image: url(../../assets/img/Group.png);*/
+    }
+    
+    .slider-component-circle-2{
+        position: absolute;
+        top: 405px;
+        left: 86.18%;
+        right: 2.88%;
+        bottom: 59.13%;
+        display: none;
+        
+    }
+    
+    .slider-component-4 {
+        position: absolute;
+        top: 407px;
+        left: 92.29%;
+        right: 6.01%;
+       
+    }
+    
+  }

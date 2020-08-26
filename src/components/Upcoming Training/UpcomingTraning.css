@@ -1,0 +1,682 @@
+.up-col-1 {
+    position: absolute; 
+    top: 210px; 
+    height: 590px;
+}
+
+.up-title-1 {
+    position: absolute;
+    width: 267px; 
+    height: 42px;
+    left: 586px;
+    top: 110px;
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 42px;
+    color: black;
+}
+
+.up-img-1{
+    position: absolute;
+    margin-top: 188px; 
+    width: 261px;
+    height: 240px;
+    left: 165px;
+}
+
+.up-cardtitle-1{
+    position: absolute;
+    width: 230px; 
+    height: 90px; 
+    left: 165px; 
+    top: 451px;
+    font-family: 'Roboto'; 
+    font-style: normal;
+    font-weight:normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: black;
+    text-align: left;
+}
+
+.up-subtitle-1{
+    position: absolute;
+    width: 230px; 
+    height: 79px;
+    left: 165px; 
+    top: 515px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight:normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: black;
+    text-align: left;
+}
+
+.up-btn-1{
+    position: absolute;
+    width:120px;
+    height: 40px;
+    left: 165px;
+    top: 608px;
+    background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.up-img-2{
+    position: absolute;
+    margin-top: 188px;
+    width: 261px;
+    height: 240px;
+    left: 448px;
+}
+
+.up-cadrtitle-2{
+    position: absolute;
+    width: 230px; 
+    height: 90px;
+    left: 448px;
+    top: 451px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 18px;
+    line-height: 28px;
+    color: black;
+    text-align: left;
+}
+
+.up-subtitle-2{
+    position: absolute;
+    width: 230px; 
+    height: 79px;
+    left: 448px; 
+    top: 515px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: black;
+    text-align: left;
+}
+
+.up-btn-2{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 448px;
+    top: 608px;
+    background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.up-img-3{
+    position: absolute;
+    margin-top: 188px;
+    width: 261px;
+    height: 240px;
+    left: 731px;
+}
+
+.up-icon-3{
+    position: absolute;
+    width: 102px; 
+    height: 89px;
+    left: 811px;
+    top: 260px;
+}
+
+.up-cardtitle-3{
+    position: absolute;
+    width: 230px;
+    height: 90px;
+    left: 731px; 
+    top: 451px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 18px;
+    line-height: 28px; 
+    color: black;
+    text-align: left;
+}
+
+.up-subtitle-3 {
+    position: absolute;
+    width: 230px; 
+    height: 79px;
+    left: 731px; 
+    top: 515px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 14px;
+    line-height: 20px;
+    color: black;
+    text-align: left;
+}
+
+.up-btn-3{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    left: 731px; 
+    top: 608px;
+    background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+    border-radius: 5px; 
+    border-color: transparent;
+}
+
+.up-img-4{
+    position: absolute; 
+    margin-top: 188px; 
+    width: 261px; 
+    height: 240px;
+    left: 1014px;
+}
+
+.up-cardtitle-4{
+    position:absolute; 
+    width: 230px; 
+    height: 90px; 
+    left: 1014px; 
+    top: 451px; 
+    font-family: 'Roboto'; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 18px; 
+    line-height: 28px; 
+    color: black; 
+    text-align: left;
+}
+
+.up-subtitle-4{
+    position: absolute;
+    width: 230px;
+    height: 79px;
+    left: 1014px; 
+    top: 515px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 14px;
+    line-height: 20px; 
+    color: black; 
+    text-align: left;
+}
+
+.up-btn-4{ 
+    position: absolute; 
+    width: 120px;
+    height: 40px; 
+    left: 1014px;
+    top: 608px;
+    background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%); 
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+
+@media (min-width: 280px) and (max-width: 600px) {
+    .up-col-1 {
+        position: absolute; 
+        top: 210px; 
+        height: 590px;
+    }
+    
+    .up-title-1 {
+        position: absolute;
+        width: 267px; 
+        height: 42px;
+        left: 66px;
+        top: 110px;
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 42px;
+        color: black;
+    }
+    
+    .up-img-1{
+        position: absolute;
+        margin-top: 188px;
+        width: 261px;
+        height: 240px;
+        left: 72px;
+    }
+    
+    .up-cardtitle-1{
+        position: absolute;
+        width: 230px; 
+        height: 90px; 
+        left: 92px; 
+        top: 451px;
+        font-family: 'Roboto'; 
+        font-style: normal;
+        font-weight:normal;
+        font-size: 18px;
+        line-height: 28px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-1{
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 92px; 
+        top: 517px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight:normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-1{
+        position: absolute;
+        width:120px;
+        height: 40px;
+        left: 150px;
+        top: 608px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px;
+        border-color: transparent;
+    }
+    
+    .up-img-2{
+        position: absolute;
+        top: 500px;
+        width: 261px;
+        height: 240px;
+        left: 72px;
+    }
+    
+    .up-cadrtitle-2{
+        position: absolute;
+        width: 230px; 
+        height: 90px;
+        left: 92px;
+       
+        margin-top: 503px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 18px;
+        line-height: 28px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-2{
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 92px; 
+        top: 1024px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-2{
+        position: absolute;
+        width: 120px;
+        height: 40px;
+        left: 150px;
+        top: 1118px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px;
+        border-color: transparent;
+    }
+    
+    .up-img-3{
+        position: absolute;
+        margin-top: 1202px;
+        width: 261px;
+        height: 240px;
+        left: 72px;
+    }
+    
+    .up-icon-3{
+        position: absolute;
+        width: 102px; 
+        height: 89px;
+        left: 811px;
+        top: 260px;
+        display: none;
+    }
+    
+    .up-cardtitle-3{
+        position: absolute;
+        width: 230px;
+        height: 90px;
+        left: 92px; 
+        top: 1461px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 18px;
+        line-height: 28px; 
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-3 {
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 92px; 
+        top: 1534px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-3{
+        position: absolute;
+        width: 120px;
+        height: 40px;
+        left: 150px; 
+        top: 1626px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px; 
+        border-color: transparent;
+    }
+    
+    .up-img-4{
+        position: absolute; 
+        margin-top: 1705px; 
+        width: 261px; 
+        height: 240px;
+        left: 72px;
+    }
+    
+    .up-cardtitle-4{
+        position:absolute; 
+        width: 230px; 
+        height: 90px; 
+        left: 92px; 
+        top: 1968px; 
+        font-family: 'Roboto'; 
+        font-style: normal; 
+        font-weight: normal; 
+        font-size: 18px; 
+        line-height: 28px; 
+        color: black; 
+        text-align: center;
+    }
+    
+    .up-subtitle-4{
+        position: absolute;
+        width: 230px;
+        height: 79px;
+        left: 92px; 
+        top: 2039px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 14px;
+        line-height: 20px; 
+        color: black; 
+        text-align: center;
+    }
+    
+    .up-btn-4{ 
+        position: absolute; 
+        width: 120px;
+        height: 40px; 
+        left: 150px;
+        top: 2132px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%); 
+        border-radius: 5px;
+        border-color: transparent;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) { 
+    .up-col-1 {
+        position: absolute; 
+        top: 210px; 
+        height: 590px;
+    }
+    
+    .up-title-1 {
+        position: absolute;
+        width: 267px; 
+        height: 42px;
+        left: 230px;
+        top: 110px;
+        font-family: 'Roboto';
+        font-style: normal; 
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 42px;
+        color: black;
+    }
+    
+    .up-img-1{
+        position: absolute;
+        margin-top: 188px;
+        width: 261px;
+        height: 240px;
+        left: 232px;
+    }
+    
+    .up-cardtitle-1{
+        position: absolute;
+        width: 230px; 
+        height: 90px; 
+        left: 252px; 
+        top: 451px;
+        font-family: 'Roboto'; 
+        font-style: normal;
+        font-weight:normal;
+        font-size: 18px;
+        line-height: 28px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-1{
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 252px; 
+        top: 517px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight:normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-1{
+        position: absolute;
+        width:120px;
+        height: 40px;
+        left: 305px;
+        top: 608px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px;
+        border-color: transparent;
+    }
+    
+    .up-img-2{
+        position: absolute;
+        top: 500px;
+        width: 261px;
+        height: 240px;
+        left: 232px;
+    }
+    
+    .up-cadrtitle-2{
+        position: absolute;
+        width: 230px; 
+        height: 90px;
+        left: 252px; 
+       
+        margin-top: 503px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 18px;
+        line-height: 28px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-2{
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 252px; 
+        top: 1024px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-2{
+        position: absolute;
+        width: 120px;
+        height: 40px;
+        left: 305px;
+        top: 1118px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px;
+        border-color: transparent;
+    }
+    
+    .up-img-3{
+        position: absolute;
+        margin-top: 1202px;
+        width: 261px;
+        height: 240px;
+        left: 232px;
+    }
+    
+    .up-icon-3{
+        position: absolute;
+        width: 102px; 
+        height: 89px;
+        left: 811px;
+        top: 260px;
+        display: none;
+    }
+    
+    .up-cardtitle-3{
+        position: absolute;
+        width: 230px;
+        height: 90px;
+        left: 252px; 
+        top: 1461px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 18px;
+        line-height: 28px; 
+        color: black;
+        text-align: center;
+    }
+    
+    .up-subtitle-3 {
+        position: absolute;
+        width: 230px; 
+        height: 79px;
+        left: 252px;  
+        top: 1534px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        text-align: center;
+    }
+    
+    .up-btn-3{
+        position: absolute;
+        width: 120px;
+        height: 40px;
+        left: 305px;
+        top: 1626px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%);
+        border-radius: 5px; 
+        border-color: transparent;
+    }
+    
+    .up-img-4{
+        position: absolute; 
+        margin-top: 1705px; 
+        width: 261px; 
+        height: 240px;
+        left: 232px;
+    }
+    
+    .up-cardtitle-4{
+        position:absolute; 
+        width: 230px; 
+        height: 90px; 
+        left: 252px;  
+        top: 1968px; 
+        font-family: 'Roboto'; 
+        font-style: normal; 
+        font-weight: normal; 
+        font-size: 18px; 
+        line-height: 28px; 
+        color: black; 
+        text-align: center;
+    }
+    
+    .up-subtitle-4{
+        position: absolute;
+        width: 230px;
+        height: 79px;
+        left: 252px; 
+        top: 2039px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal; 
+        font-size: 14px;
+        line-height: 20px; 
+        color: black; 
+        text-align: center;
+    }
+    
+    .up-btn-4{ 
+        position: absolute; 
+        width: 120px;
+        height: 40px; 
+        left: 305px;
+        top: 2132px;
+        background: linear-gradient(90deg, #3AE4DF 0%, #7A88FF 104.29%); 
+        border-radius: 5px;
+        border-color: transparent;
+    }
+}
+
+

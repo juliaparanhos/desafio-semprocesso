@@ -1,0 +1,299 @@
+.msg-col-1 {
+    position: absolute;
+    top: 110px; 
+    height: 435px;
+}
+
+.msg-background-blue {
+    position: absolute;
+    margin-left: 489px;
+    right: 877px;
+    top: 155px;
+    border-radius: 4px;
+}
+
+.msg-background-withe{
+    position: absolute;
+    left: 165px;
+    right: 217.21px;
+    top: 245.09px;
+}
+.msg-image {
+   position: absolute;
+   width: 360.79px;
+   height: 354.91px;
+   left: 165px;
+   top: 209px;
+}
+ .msg-component-circle{
+    position: absolute;
+    left: 489px;
+    right: 59.82%;
+    top: 48.39%;
+ }
+
+ .msg-title-1{
+    position: absolute;
+    width: 422px;
+    height: 84px; 
+    left: 743px; 
+    top: 164px; 
+    font-family: ''Roboto''; 
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 32px;
+    line-height: 42px;
+    color: black;
+    text-align: left;
+ }
+
+ .msg-subtitle-1 {
+    position: absolute;
+    width: 470px;
+    height: 76px;
+    left: 743px; 
+    top: 274px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal; 
+    font-size: 18px; 
+    line-height: 25px;
+    color: black; 
+    text-align: left;
+ }
+
+ .msg-text{
+    position: absolute; 
+    width: 470px;
+    height: 79px;
+    left: 743px;
+    top: 363px; 
+    font-family: 'Roboto'; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.5); 
+    text-align: left;
+ }
+
+ .msg-subtext{
+    position: absolute;
+    width: 77px;
+    height: 23px;
+    left: 743px; 
+    top: 468px;
+    font-family: 'Roboto'; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 16px; 
+    line-height: 140.62%;
+    text-decoration-line: underline;
+    text-align: left; 
+    color: blue;
+ }
+
+ @media (min-width: 280px) and (max-width: 600px) { 
+   html, body{
+      overflow-x: hidden !important; 
+  }
+   .msg-col-1 {
+      position: absolute;
+      top: 110px; 
+      height: 435px;
+  }
+  
+  .msg-background-blue {
+      position: absolute;
+      margin-left: 1px;
+      height: 200px;
+      width: 200px;
+      right: 7px;
+      top: 155px;
+      border-radius: 4px;
+     
+  }
+  
+  .msg-background-withe{
+      position: absolute;
+      left: 75px;
+      height: 250px;
+      width: 250px;
+      top: 170px;
+  }
+   .msg-image {
+      position: absolute;
+      width: 249px;
+      height: 250px;
+      left: 75px;
+      top: 169px;
+   }
+   .msg-component-circle{
+      position: absolute;
+      left: 299px;
+      right: 59.82%;
+      top: 37.39%;
+   }
+  
+   .msg-title-1{
+      position: absolute;
+      width: 422px;
+      height: 84px; 
+      left: -8px; 
+      top: -19px; 
+      font-family: 'Roboto'; 
+      font-style: normal;
+      font-weight: normal; 
+      font-size: 29px;
+      line-height: 42px;
+      color: black;
+      text-align: center;
+   }
+  
+   .msg-subtitle-1 {
+      position: absolute;
+      width: 310px;
+      height: 76px;
+      left: 52px; 
+      top: 74px;
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: normal; 
+      font-size: 15px; 
+      line-height: 25px;
+      color: black; 
+      text-align: center;
+   }
+  
+   .msg-text{
+      position: absolute; 
+      width: 300px;
+      height: 79px;
+      left: 53px;
+      top: 433px; 
+      font-family: 'Roboto'; 
+      font-style: normal; 
+      font-weight: normal; 
+      font-size: 14px;
+      line-height: 20px;
+      color: rgba(0, 0, 0, 0.5); 
+      text-align: center;
+   }
+  
+   .msg-subtext{
+      position: absolute;
+      width: 77px;
+      height: 23px;
+      left:160px; 
+      top: 578px;
+      font-family: 'Roboto'; 
+      font-style: normal; 
+      font-weight: normal; 
+      font-size: 16px; 
+      line-height: 140.62%;
+      text-decoration-line: underline;
+      text-align: center; 
+      color: blue;
+   }
+ }
+
+ @media (min-width: 768px) and (max-width: 1024px)  {
+   .msg-col-1 {
+      position: absolute;
+      top: 110px; 
+      height: 435px;
+  }
+  
+  .msg-background-blue {
+      position: absolute;
+      margin-left: 1px;
+      right: 227px;
+      top: 155px;
+      border-radius: 4px;
+     
+  }
+  
+  .msg-background-withe{
+      position: absolute;
+      left: 175px;
+      height: 250px;
+      width: 250px;
+      top: 270px;
+  }
+   .msg-image {
+      position: absolute;
+      width: 249px;
+      height: 250px;
+      left: 175px;
+      top: 259px;
+   }
+   .msg-component-circle{
+      position: absolute;
+      left: 399px;
+      right: 59.82%;
+      top: 54.39%;
+   }
+  
+   .msg-title-1{
+      position: absolute;
+      width: 422px;
+      height: 84px; 
+      left: 158px; 
+      top: -19px; 
+      font-family: 'Roboto'; 
+      font-style: normal;
+      font-weight: normal; 
+      font-size: 29px;
+      line-height: 42px;
+      color: black;
+      text-align: center;
+   }
+  
+   .msg-subtitle-1 {
+      position: absolute;
+      width: 410px;
+      height: 76px;
+      left: 158px; 
+      top: 74px;
+      font-family: ''Roboto'';
+      font-style: normal;
+      font-weight: normal; 
+      font-size: 16px; 
+      line-height: 25px;
+      color: black; 
+      text-align: center;
+   }
+  
+   .msg-text{
+      position: absolute; 
+      width: 420px;
+      height: 79px;
+      left: 153px;
+      top: 533px; 
+      font-family: 'Roboto'; 
+      font-style: normal; 
+      font-weight: normal; 
+      font-size: 14px;
+      line-height: 20px;
+      color: rgba(0, 0, 0, 0.5); 
+      text-align: center;
+   }
+  
+   .msg-subtext{
+      position: absolute;
+      width: 77px;
+      height: 23px;
+      left:330px; 
+      top: 620px;
+      font-family: 'Roboto'; 
+      font-style: normal; 
+      font-weight: normal; 
+      font-size: 16px; 
+      line-height: 140.62%;
+      text-decoration-line: underline;
+      text-align: center; 
+      color: blue;
+   }
+ }
+
+
